@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'WZQ的独立博客'
-description: '后端开发者/23考研人, 热爱生活, 热爱思考。很高兴能在这里与你分享我对技术和生活的思考。'
+description: '后端开发学习中/23计算机考研人, 热爱生活, 热爱思考。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: ''
 url: '' # your host
 
@@ -26,8 +26,8 @@ footer:
 # Author 配置博主信息
 author: 'WZQ'
 nickname: 'Rayen227'
-bio: '后端开发者, 23考研人, 热爱生活, 热爱思考'
-avatar: '/assets/img/profile.png'
+bio: '后端开发, 23考研, 热爱生活, 热爱思考'
+avatar: 'https://avatars.githubusercontent.com/u/61229058?s=400&u=0a89cb5e336cbc688d191f1a279021897b508fa3&v=4'
 
 # Search
 search: true
