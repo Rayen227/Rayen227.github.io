@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'WZQ的独立博客'
+title: '不知名的宝藏'
 description: '后端开发学习中/23计算机考研人, 热爱生活, 热爱思考。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: ''
 url: '' # your host
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'default' # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -65,7 +65,15 @@ recommend-condition-size: 12 # a tag will be recommended if the size of it is mo
 # Build settings
 paginate: 6
 paginate_path: 'page:num'
-exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
+exclude:
+  [
+    'node_modules',
+    'dev',
+    'package.json',
+    'gulpfile.js',
+    '.gitignore',
+    'README.md',
+  ]
 
 # Markdown
 markdown: kramdown
