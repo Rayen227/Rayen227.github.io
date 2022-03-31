@@ -9,7 +9,7 @@
 	"Print to console": {
 		"prefix": "emsp",
 		"body": [
-			"&emsp;&emsp;$1&emsp;&emsp;"
+			"&emsp;&emsp;$1  "
 		],
 		"description": "Surrounded by space"
 	}
